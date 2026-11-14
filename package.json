@@ -1,0 +1,7 @@
+{
+  "name": "london-trip-2026",
+  "private": true,
+  "type": "module",
+  "description": "London trip plan, 20-24 Nov 2026. Static site + one Vercel function (api/ask.js). No build step.",
+  "engines": { "node": ">=18" }
+}
